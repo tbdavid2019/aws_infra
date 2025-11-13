@@ -1,0 +1,1 @@
+- 對 aws instance 開機和關機
